@@ -1,2 +1,1 @@
-# Smp-Info
-Smp Info
+Everything to know about the smp!
